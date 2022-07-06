@@ -54,6 +54,8 @@ I am a software developer, LMU grad, former television production assistant, and
 
 <h1 align="center">🔧 Tools</h1>
 
+<p align="center">
+
 | | | |
 | ----------- | ----------- | ----------- |
 | <img src="./img/mongo.png" height=40   width=50/> Mongo | <img src="./img/ExpressJS-logo.png" width=50/> Express.js | <img src="./img/react.png" width=50/> React |
@@ -63,17 +65,28 @@ I am a software developer, LMU grad, former television production assistant, and
 | <img src="./img/git.png" width=50/>Git | <img src="./img/github.png" width=50/>Github | <img src="./img/linux.png" width=50/>Linux
 | <img src="./img/bulma-logo.png" height=60 width=50/> Bulma | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/canva.png" width=50/> Canva |
 
-
+</p>
 
 ## Hobbies / Interests
 
-     Traveling
-     Restaurants
-     Fashion
-     House Plants
+    🛩️ Traveling
+    🍽️ Restaurants
+    👜 Fashion
+    🪴 House Plants
 
-## Connect with me
+<h1 align="center"> Connect with me !</h1>
+
 
   &nbsp; <img src="./img/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/brandon-mizutani)
 
   &nbsp; <img src="./img/gmail.png" width=20/> &nbsp;&nbsp; bran2miz@gmail.com
+
+<h2  align="center">📚 Resources Used to Build This Repo:</h2>
+
+- Header from Canva
+
+- Social media favicons from Icons8
+
+- README Statistics from anuraghazra
+
+- Emojis from webfx.com
