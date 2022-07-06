@@ -51,6 +51,8 @@ I am a software developer, LMU grad, former television production assistant, and
 
 - [Python Data Structures and Algorithms](https://github.com/bran2miz/data-structures-and-algorithms)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bran2miz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h1 align="center">🔧 Tools</h1>
 
