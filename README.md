@@ -54,7 +54,7 @@ I am a software developer, LMU grad, former television production assistant, and
 
 <h1 align="center">🔧 Tools</h1>
 
-<p align="center">
+<div align="center"> 
 
 | | | |
 | ----------- | ----------- | ----------- |
@@ -65,7 +65,7 @@ I am a software developer, LMU grad, former television production assistant, and
 | <img src="./img/git.png" width=50/>Git | <img src="./img/github.png" width=50/>Github | <img src="./img/linux.png" width=50/>Linux
 | <img src="./img/bulma-logo.png" height=60 width=50/> Bulma | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/canva.png" width=50/> Canva |
 
-</p>
+</div>
 
 ## Hobbies / Interests
 
