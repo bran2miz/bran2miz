@@ -5,9 +5,9 @@
 <a href="mailto:bran2miz@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./img/gmail.png"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=bran2miz.84735692" width="110px">
-</p>
+//<p align="center">
+//<img src="https://visitor-badge.glitch.me/badge?page_id=bran2miz.84735692" width="110px">
+//</p>
 
 <h1 align="center">👋&nbsp; About Me!</h1>
 
