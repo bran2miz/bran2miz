@@ -1,4 +1,4 @@
-![header img here](./img/profile-banner.png)
+![header img here](./img/banner-profile.png)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/brandon-mizutani/" target="_blank" rel="noopener noreferrer"><img height="38" src="./img/linkedin.png"></a>&nbsp;&nbsp;
