@@ -12,19 +12,13 @@ My name is Brandon Mizutani, and I am a dedicated software developer based in Se
 </p>
 
 <div align="center">  
-  
-## 📊 My Statistics
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bran2miz&count_private=true&show_icons=true&theme=radical&card_width=750)
-  
-
 
 ## 🐍 &nbsp; Languages
 
-|  |  |  |  |
-| ----------- | ----------- | ----------- | ----------- |
-<img src="./img/python.png" width=70/> | <img src="./img/js.png" width=70/> | <img src="./img/html.png" width=70/> | <img src="./img/css.png" width=70/> |
-|  |  |  |  |
+|  |  |  |  |  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| <img src="./img/python.png" width="70"/> | <img src="./img/js.png" width="70"/> | <img src="./img/html.png" width="70"/> | <img src="./img/css.png" width="70"/> | <img src="./img/java.png" width="70"/> |
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bran2miz&layout=compact&theme=midnight-purple&card_width=750&langs_count=10)](https://github.com/bran2miz/github-readme-stats)
 </div>
@@ -74,12 +68,17 @@ My name is Brandon Mizutani, and I am a dedicated software developer based in Se
 
 | | | |
 | ----------- | ----------- | ----------- |
-| <img src="./img/mongo.png" height=40   width=50/> Mongo | <img src="./img/ExpressJS-logo.png" width=50/> Express.js | <img src="./img/react.png" width=50/> React |
-| <img src="./img/node.png" width=50/> Node | <img src="./img/next_logo.png" width=50/> Next | <img src="./img/django.png" width=50/> Django
-| <img src="./img/tailwind.png" height=40 width=50/><br>TailwindCSS | <img src="./img/docker.png" height=40 width=50/> <br>Docker | <img src="./img/postgresql.png" height=40 width=50/> PostgreSQL
-| <img src="./img/aws.png" height=50 width=50/>AWS | <img src="./img/netlify.png" height=50 width=50/> Netlify | <img src="./img/heroku.png" height=50 width=50/> Heroku
-| <img src="./img/git.png" width=50/>Git | <img src="./img/github.png" width=50/>Github | <img src="./img/linux.png" width=50/>Linux
-| <img src="./img/bulma-logo.png" height=60 width=50/> Bulma | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/canva.png" width=50/> Canva | 
+| <img src="./img/mongo.png" height=40 width=50/> Mongo | <img src="./img/ExpressJS-logo.png" width=50/> Express.js | <img src="./img/react.png" width=50/> React |
+| <img src="./img/node.png" width=50/> Node | <img src="./img/next_logo.png" width=50/> Next | <img src="./img/django.png" width=50/> Django |
+| <img src="./img/tailwind.png" height=40 width=50/><br>TailwindCSS | <img src="./img/docker.png" height=40 width=50/> <br>Docker | <img src="./img/postgresql.png" height=40 width=50/> PostgreSQL |
+| <img src="./img/aws.png" height=50 width=50/>AWS | <img src="./img/netlify.png" height=50 width=50/> Netlify | <img src="./img/heroku.png" height=50 width=50/> Heroku |
+| <img src="./img/git.png" width=50/>Git | <img src="./img/github.png" width=50/>Github | <img src="./img/linux.png" width=50/>Linux |
+| <img src="./img/bulma-logo.png" height=60 width=50/> Bulma | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/canva.png" width=50/> Canva |
+| <img src="./img/jest.jpg" width=50> Jest | <img src="./img/socket.png" width=50> Socket.io | <img src="./img/material.png" width=50> Material UI |
+| <img src="./img/render.png" width=50> Render | <img src="./img/redux.png" width=50> Redux | <img src="./img/vite.png" width=50> Vite/REACT|
+| <img src="./img/auth0.png" width=50> Auth0 | <img src="./img/sequelize.png" width=50> Sequelize | <img src="./img/react.png" width=50> React Native|
+
+
 
 </div>
 
@@ -95,7 +94,11 @@ My name is Brandon Mizutani, and I am a dedicated software developer based in Se
 
   &nbsp; <img src="./img/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/brandon-mizutani)
 
-  &nbsp; <img src="./img/gmail.png" width=20/> &nbsp;&nbsp; bran2miz@gmail.com
+  &nbsp; <img src="./img/gmail.png" width=20/> &nbsp;&nbsp; [Email me](mailto:bran2miz@gmail.com)
+
+  &nbsp; <img src="./img/calendar9737.jpg" width=20/> &nbsp;&nbsp;
+  [Book a tutoring session with me](https://calendly.com/bran2miz/60min)
+
 
 <h2  align="center">📚 Resources Used to Build This Repo:</h2>
 
