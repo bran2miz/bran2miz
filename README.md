@@ -8,7 +8,7 @@
 <h1 align="center">👋&nbsp; About Me!</h1>
 
 <p align="center">
-I am a software developer, LMU grad, former television production assistant, and dedicated individual who has high aspirations to break into the tech industry. I am in pursuit for a career in tech that allows me to work with like-minded individuals who have the same passion for coding!
+My name is Brandon Mizutani, and I am a dedicated software developer based in Seattle, WA, with a strong background in advanced software development. I hold a Certificate in Advanced Software Development in Python from Code Fellows and a Bachelor of Arts in Asian Pacific Studies from Loyola Marymount University. My expertise spans multiple languages and frameworks, including Python, JavaScript, React, and Django. I have worked on notable projects such as developing an e-commerce storefront using React and Redux, a Django-based To-Do App with a focus on secure login and task storage, and an e-commerce app named Insta Dealz. In my professional journey, I have significantly contributed as a Lead TA and Tutor at Code Fellows, where I assisted students with programming concepts and enhanced their technical proficiency.Passionate about coding, I continually apply my knowledge to develop innovative and efficient applications. I am committed to creating successful computer and mobile applications that meet the needs of users and drive technological advancement.
 </p>
 
 <div align="center">  
@@ -44,7 +44,22 @@ I am a software developer, LMU grad, former television production assistant, and
   - An e-commerce app that allows the user to buy items, view product details, deleted items in their cart, and view the cart total amount.
   - [Repo](https://github.com/Team-PythonGo/insta_dealz_fe)
   - [Vercel](https://insta-dealz-2ir84llib-insta-deals.vercel.app/)
+ 
+- <b> Todo App </b>
+  - To-Do App is a task management application that allows users to efficiently manage their daily tasks. The app features bearer authentication via the server, ensuring secure user authentication and authorization. Depending on the user's role and capabilities, they can access the to-do list and settings, add new tasks, delete tasks, and mark tasks as completed. This robust functionality provides users with the tools they need to stay organized and manage their tasks effectively.
+  - [Repo](https://github.com/bran2miz/todo-app)
+  - [Render](https://auth-api-v2.onrender.com/)
+ 
+- <b> StoreFront </b>
+  - Storefront App is a dynamic e-commerce application that allows users to explore and purchase items across multiple categories. Users can browse products, add them to their cart, and proceed to checkout. The app features a responsive user interface, with options for users to filter products by category, view detailed product information, and manage their shopping carts efficiently. Storefront also includes features like inventory management and real-time updates to ensure a smooth shopping experience.
+  - [Repo](https://github.com/bran2miz/storefront)
+  - [Render](https://auth-api-v2.onrender.com/api/v1)
 
+- <b> RESTyrant </b>
+  - Restyrant App is a web application designed to manage restaurant operations and customer interactions. The backend was developed using Django Rest Framework and deployed to AWS EC2, with the frontend hosted separately. The two components were integrated by configuring environment variables through a .env file, and permissions were carefully managed to ensure secure communication between the frontend and backend. This setup provides a robust and scalable solution for restaurant management needs.
+  - [Repo](https://github.com/bran2miz/restyrant)
+  - [Render](https://django-x-restuarant-app.onrender.com/)
+    
 - [Python Data Structures and Algorithms](https://github.com/bran2miz/data-structures-and-algorithms)
 
 <div align="center">
@@ -64,7 +79,7 @@ I am a software developer, LMU grad, former television production assistant, and
 | <img src="./img/tailwind.png" height=40 width=50/><br>TailwindCSS | <img src="./img/docker.png" height=40 width=50/> <br>Docker | <img src="./img/postgresql.png" height=40 width=50/> PostgreSQL
 | <img src="./img/aws.png" height=50 width=50/>AWS | <img src="./img/netlify.png" height=50 width=50/> Netlify | <img src="./img/heroku.png" height=50 width=50/> Heroku
 | <img src="./img/git.png" width=50/>Git | <img src="./img/github.png" width=50/>Github | <img src="./img/linux.png" width=50/>Linux
-| <img src="./img/bulma-logo.png" height=60 width=50/> Bulma | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/canva.png" width=50/> Canva |
+| <img src="./img/bulma-logo.png" height=60 width=50/> Bulma | <img src="./img/bootstrap_logo.png" height=40 width=50/>Bootstrap | <img src="./img/canva.png" width=50/> Canva | 
 
 </div>
 
